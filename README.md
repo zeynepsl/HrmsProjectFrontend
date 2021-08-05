@@ -1,2 +1,1 @@
 # HrmsProjectFrontend
-![componentDiagram](/kodlamaio.png)
